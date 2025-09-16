@@ -1,4 +1,4 @@
-# 🌿 Yoga Harmony - Site Web Frontend
+# 🌿 Yoga Website - Site Web Frontend
 
 ![Yoga Website Banner](images/app.png)
 
