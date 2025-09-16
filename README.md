@@ -1,44 +1,49 @@
-# Yoga Website - Frontend Integration
+# 🌿 Yoga Harmony - Site Web Frontend
 
-![Yoga Website Banner](images/screenshot-hero.png)
+![Yoga Website Banner](images/app.png)
 
-## Description
-This project is a **frontend integration of a Yoga website design from Figma**.  
-It showcases a responsive and modern design for promoting yoga classes and instructors, including interactive sections such as hero banners, yoga poses, Instagram feed, and newsletter subscription.
+## 📋 Description
+Ce projet est une **intégration frontend d'une maquette Figma pour un site web de yoga**.  
+Il présente un design moderne et responsive pour promouvoir des cours de yoga et des instructeurs, avec des sections interactives incluant bannières hero, poses de yoga, feed Instagram et formulaire d'abonnement à la newsletter.
 
-The website features **light/dark theme toggling**, responsive layouts, and smooth UI interactions.
+Le site inclut un **changement de thème clair/sombre**, des mises en page responsives et des interactions UI fluides.
 
----
+## ✨ Fonctionnalités
+- Design **entièrement responsive** (desktop, tablette, mobile)
+- **Section hero** avec appel à l'action
+- **Poses de yoga et statistiques**
+- Section **Suivez-nous sur Instagram** avec mise en page interactive
+- Formulaire d'**abonnement à la newsletter**
+- **Basculement entre thème clair et sombre**
+- Développé avec **Bootstrap 5** pour la mise en page et les composants responsives
+- **Google Fonts (Inter)** pour la typographie
+- **Bootstrap Icons** pour les icônes
 
-## Features
-- Fully **responsive design** (desktop, tablet, mobile)
-- **Hero section** with call-to-action
-- **Yoga poses and statistics**
-- **Follow on Instagram** section with interactive layout
-- **Newsletter subscription** form
-- **Light and Dark theme toggle**
-- Built with **Bootstrap 5** for layout and responsive components
-- **Google Fonts** for typography
-- **Bootstrap Icons** for visual enhancement
+## 🛠️ Technologies Utilisées
+- **HTML5** - Structure du markup
+- **CSS3 & Styles Personnalisés** - Styling et mise en page
+- **Bootstrap 5** - Grille responsive et composants
+- **JavaScript** - Basculement de thème et interactivité
+- **Google Fonts (Inter)** - Typographie
+- **Bootstrap Icons** - Icônes
+- **Figma** - Prototype de design original
 
----
+## 🚀 Installation et Utilisation
 
-## Technologies Used
-- **HTML5** – Markup structure  
-- **CSS3 & Custom Styles** – Styling and layout  
-- **Bootstrap 5** – Responsive grid and components  
-- **JavaScript** – Theme toggling and interactivity  
-- **Google Fonts (Inter)** – Typography  
-- **Bootstrap Icons** – Icons  
-- **Figma** – Original design prototype  
+```bash
+# Cloner le dépôt
+git clone https://github.com/MedAmine2221/integration-bootstrap
 
----
+# Se déplacer dans le répertoire du projet
+cd integration-yoga
 
-## Installation / Usage
-   git clone https://github.com/yourusername/integration-bootstrap.git
-   npm i
-   live-server
+# Installer live-server (si nécessaire)
+npm install
 
+# Démarrer le serveur de développement
+live-server
+
+```bash
 integration-bootstrap/
 │
 ├── images/                # Images used in the project
