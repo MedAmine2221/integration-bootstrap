@@ -42,7 +42,7 @@ npm install
 
 # Démarrer le serveur de développement
 live-server
-
+```
 ```bash
 integration-bootstrap/
 │
@@ -53,3 +53,4 @@ integration-bootstrap/
 │   └── script.js          # JavaScript for interactivity
 ├── index.html             # Main HTML file
 └── README.md              # Project documentation
+```
