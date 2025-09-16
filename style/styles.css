@@ -1,7 +1,4 @@
-/* Custom CSS for Yoga Website - Fixed Navbar Issues */
-
 :root {
-  /* Updated color palette to match Figma design exactly */
   --primary-pink: #ff52af;
   --primary-purple: #9f53ff;
   --light-bg: #f5f0ff;
@@ -196,7 +193,7 @@ body {
   min-height: 100vh;
   position: relative;
   overflow: hidden;
-  padding-top: 100px; /* Account for fixed navbar */
+  padding-top: 100px;
 }
 
 .hero-content h1 {
@@ -390,8 +387,8 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  border-radius: 100%; /* ici ça va marcher */
-  padding: 3px; /* épaisseur de la bordure */
+  border-radius: 100%;
+  padding: 3px;
   background: linear-gradient(135deg, var(--primary-pink), var(--primary-purple));
   -webkit-mask: 
     linear-gradient(#fff 0 0) content-box, 
